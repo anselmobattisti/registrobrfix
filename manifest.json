@@ -1,6 +1,6 @@
 {
   "name": "RegistrobrFix",
-  "version": "1.0",
+  "version": "1.2",
   "manifest_version": 2,
   "description": "PROBLEMA: No whois do registro.br, ao colar uma url ela vem toda suja e você precisa limpar na mão! SOLUÇÃO: RegistrobrFix!",
   "homepage_url": "http://battisti.com.br",
@@ -14,6 +14,6 @@
     "default_title": "Registro.br"
   },
   "permissions": [
-    "https://registro.br/*"
+    "activeTab"
   ]
 }
